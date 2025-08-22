@@ -53,7 +53,18 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/069b5032-d6fa-42cb-a889-769626bfe82c" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/7c0906b8-b266-453d-82c0-c0480e377b15" />
+
 •	IP configurations on PCs<br>
+
+<img width="1915" height="1074" alt="image" src="https://github.com/user-attachments/assets/bdcec766-b523-493a-9051-32572b4bb65c" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8beb5b03-8ee2-40b3-92e6-942af4af6632" />
+
+<img width="1797" height="953" alt="image" src="https://github.com/user-attachments/assets/4812f236-f2dc-4d46-9488-40bb069c6390" />
+
+
 •	Successful ping between PC0 and PC1<br>
 ________________________________________
 # Result
